@@ -1,192 +1,120 @@
+<p align="center">
+  <img src="./assets/hero.svg" alt="Hala Naaz — AI Security | AI Red Teaming | Security Research" width="100%" />
+</p>
+
+<div align="center">
+
 # Hala Naaz
 
-### Cybersecurity Professional  • AI Red Teaming • Security Research • Security Tool Developer
+**Cybersecurity &nbsp;|&nbsp; AI Security &nbsp;|&nbsp; AI Red Teaming &nbsp;|&nbsp; Security Research**
 
 <p align="center">
-  <a href="https://www.ashlynxcyber.in/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/hala-naaz/">LinkedIn</a> •
-  <a href="https://github.com/Halanaaz1401">GitHub</a>
+  <a href="https://www.ashlynxcyber.in/"><strong>🌐 Portfolio</strong></a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/hala-naaz/"><strong>💼 LinkedIn</strong></a> &nbsp;•&nbsp;
+  <a href="https://github.com/Halanaaz1401"><strong>🐙 GitHub</strong></a> &nbsp;•&nbsp;
+  <a href="#-featured-projects--research"><strong>🔬 Featured Work</strong></a>
 </p>
+
+</div>
 
 ---
 
 ## 🛡️ About Me
 
-Hello! I'm **Hala Naaz**. Coming from a non-technical background, my deep curiosity for systems and resilience drove me to build my path through continuous hands-on learning, experimentation, and practical projects across cybersecurity, cloud infrastructure, and AI engineering.
+I am a cybersecurity practitioner and security researcher focused on **AI Security, AI Red Teaming, and Defensive Engineering**. Through hands-on security experimentation and my initiative at [AshlynxCyber](https://www.ashlynxcyber.in/), I investigate attack surfaces where AI models, autonomous agent workflows, and cloud infrastructure intersect. 
 
-Today, through **AshlynxCyber**, I specialize in defensive security engineering, cloud infrastructure hardening, secure migrations, and building custom automated security tools tailored for modern engineering workflows.
+My work centers on practical adversarial testing—including prompt injection, RAG data leakage, and tool-calling privilege abuse—alongside building defensive tooling and telemetry analytics. I approach defensive engineering with an adversarial mindset: understanding how intelligent systems fail under attack to design verifiable, resilient security boundaries.
 
-<p align="center">
-  <strong>Cybersecurity</strong> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong>AI Security & GenAI</strong> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong>Cloud Security & Infrastructure</strong>
+---
+
+## 🎯 Current Focus
+
+- **AI Red Teaming & Adversarial LLM Testing** — Evaluating prompt injection (direct/indirect), jailbreaks, and guardrail bypass vectors.
+- **LLM Application & RAG Security** — Auditing retrieval pipelines against context contamination, vector poisoning, and unauthorized knowledge extraction.
+- **AI Agent Security & Tool-Calling Abuse** — Studying capability hijacking, excessive agency, and lateral privilege movement in multi-agent environments.
+- **Intent Security & Privilege Management for AI Agents** — Researching task-bounded execution, short-lived delegation, and runtime intent verification.
+- **Controlled Experimentation & Reproducible Research** — Developing reproducible attack simulations, telemetry tracking, and defensive test harnesses.
+
+---
+
+## 🔬 Featured Projects & Research
+
+| Project | Focus & Technical Scope | Key Technologies | Status | Links |
+| :--- | :--- | :--- | :--- | :--- |
+| **[ThreatLens](https://github.com/Halanaaz1401/threatlens)** | **Cyber Threat Intelligence & SOC Analytics Platform**<br>Ingests multi-source threat feeds, performs automated IOC correlation and dynamic severity scoring, maps adversary behavior to MITRE ATT&CK, and surfaces telemetry in an interactive incident command cockpit. | Python, FastAPI, Next.js, PostgreSQL, Elasticsearch | `Live Prototype` | [Code](https://github.com/Halanaaz1401/threatlens) • [Live Demo](https://threatlens.ashlynxcyber.in/) |
+| **[ScamShield AI](https://github.com/Halanaaz1401/scamshield-ai)** | **Explainable Scam Detection & Threat Defense**<br>Deconstructs suspicious messages and digital communications to analyze attacker intent, assess compliance risk, explain manipulation mechanics, and provide clear defensive next steps. *(Built for First Commit Bharat Builds Tour 2026 — WeMakeDevs × AWS)* | Python 3.12, Google Gemini Flash, AWS Lambda, Amazon API Gateway, Next.js 15 | `Completed Hackathon Build` | [Code](https://github.com/Halanaaz1401/scamshield-ai) |
+| **[ContinuumAI](https://github.com/Halanaaz1401/ContinuumAI)** | **Persistent Memory & Coordination Layer for AI Agents**<br>Graph-powered memory infrastructure that organizes agent interactions, operational findings, task states, and multi-agent handoffs into a unified, queryable knowledge graph. | Python, Graph Data Models, FalkorDB, FastAPI | `Active Development` *(Core Engine & Architecture)* | [Code](https://github.com/Halanaaz1401/ContinuumAI) |
+| **AUTHORIZED ≠ APPROPRIATE** | **Intent Security & Privilege Management for AI Agents**<br>Conceptual security research investigating why static authorization (RBAC/ABAC) is insufficient for autonomous agents, formulating intent-governed execution boundaries and short-lived delegation to prevent prompt-induced capability abuse. *(Documented research framework; distinguished from experimental validation)* | Threat Modeling, Agent Authorization, Runtime Guardrails | `Research Framework` *(Active Study)* | *Documented Framework* |
+
+### Supporting Security & Engineering Work
+
+- **[Ransomware Detection & Response System (RDRS)](https://github.com/Halanaaz1401/ransomware-detection-response-system)** — Local-first defensive simulation analyzing Shannon entropy, process telemetry (`psutil`), and suspicious mass-encryption activity to demonstrate containment workflows.
+- **[Healysis Sentry Network](https://github.com/Halanaaz1401/healysis-sentry-network)** — Healthcare supply-chain resilience prototype co-developed with Ashraf Sami, integrating Google Gemini for anomaly forecasting and role-based stock validation. ([Live Demo](https://healysis.ashlynxcyber.in/))
+
+---
+
+## 🧰 Technical Skills & Tools
+
+### Programming & Scripting
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+### AI & AI Security
+<p align="left">
+  <img src="https://img.shields.io/badge/AI%20Red%20Teaming-DC2626?style=for-the-badge&logo=hackthebox&logoColor=white" alt="AI Red Teaming" />
+  <img src="https://img.shields.io/badge/Prompt%20Injection%20Testing-EF4444?style=for-the-badge&logo=target&logoColor=white" alt="Prompt Injection Testing" />
+  <img src="https://img.shields.io/badge/LLM%20&%20RAG%20Security-0284C7?style=for-the-badge&logo=shield&logoColor=white" alt="LLM & RAG Security" />
+  <img src="https://img.shields.io/badge/Agent%20Privilege%20Boundaries-8B5CF6?style=for-the-badge&logo=auth0&logoColor=white" alt="Agent Privilege Boundaries" />
+  <img src="https://img.shields.io/badge/Google%20Gemini%20API-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini API" />
+</p>
+
+### Security Testing & Research
+<p align="left">
+  <img src="https://img.shields.io/badge/Web%20Security%20Testing-EA580C?style=for-the-badge&logo=owasp&logoColor=white" alt="Web Security Testing" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Threat%20Modeling-059669?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Threat Modeling" />
+  <img src="https://img.shields.io/badge/Shannon%20Entropy%20Analysis-10B981?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Shannon Entropy Analysis" />
+</p>
+
+### Backend & Web Development
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
+</p>
+
+### Cloud, Databases & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS%20(Lambda%20|%20API%20Gateway)-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Linux%20Hardening-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-## 🎯 What I Work On
+## 🧪 Tools & Continuous Learning
 
-- **AI Red Teaming & AI Security**
-- **Security Research & Vulnerability Analysis**
-- **LLM, RAG & AI Agent Security**
-- **Prompt Injection & Adversarial Testing**
-- **SOC, Threat Intelligence & Detection Engineering**
-- **Cloud & Infrastructure Security**
-- **Security Automation & Tool Building**
-
----
-
-## 🔬 Current Research Focus
-
-My current security research interests are centered around the security boundary between **AI applications, users, tools, and infrastructure**.
-
-- Prompt injection and indirect prompt injection
-- LLM application security
-- AI agent security
-- RAG security
-- Tool / function abuse
-- AI application attack surfaces
-- Security automation
-- Threat intelligence
-- Detection engineering
-- Cloud security
-- Emerging cybersecurity threats
-
----
-
-## 🚀 Currently Building
-
-### 🏥 Healysis
-An AI-powered healthcare and supply-chain resilience platform focused on improving operational visibility across healthcare networks.
-
-### 🛡️ ThreatLens
-A **Cyber Threat Intelligence & SOC Analytics Platform** for IOC ingestion, correlation, scoring, MITRE ATT&CK mapping, dashboards, and security reporting.
-
-### 🔎 Cyberion Defense Labs
-Hands-on **detection engineering and threat hunting** work covering Sigma rules, MITRE ATT&CK techniques, Windows telemetry, C2 activity, credential-access investigations, and incident-response workflows.
-
----
-
-## 🧪 Hands-on Security Work
-
-I focus on learning through controlled environments rather than only theory:
-
-- TryHackMe
-- CTFs
-- Home labs
-- AI security experiments
-- Controlled attack & defense scenarios
-- Detection and investigation exercises
-- Security automation projects
-- Case-study analysis and technical documentation
-
----
-
-## 🧰 Technical Areas
-
-### 🔴 AI Red Teaming & AI Security
-
-**LLM Security • Prompt Injection Testing • AI Agent Security • RAG Security • Adversarial Testing • AI Application Security • Security Automation**
-
-### 🛡️ Defensive Security
-
-**SOC Operations • SIEM • Threat Intelligence • Threat Hunting • Detection Engineering • Incident Response • Log Analysis**
-
-### ☁️ Cloud & Infrastructure
-
-**AWS • Linux • Docker • Nginx • DNS • SSL/TLS • Infrastructure Hardening**
-
-### ⚙️ Security Engineering & Development
-
-**Python • FastAPI • JavaScript • TypeScript • Next.js • PostgreSQL • MySQL • REST APIs • Git**
-
----
-
-## 💻 Technologies
-
-### AI / Development
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" width="48" height="48" alt="Python" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/hugging-face/default.svg" width="48" height="48" alt="Hugging Face" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/bash/default.svg" width="48" height="48" alt="Bash" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/javascript/default.svg" width="48" height="48" alt="JavaScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/typescript/default.svg" width="48" height="48" alt="TypeScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/fastapi/default.svg" width="48" height="48" alt="FastAPI" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nextjs/default.svg" width="48" height="48" alt="Next.js" />
-</p>
-
-### Databases / Infrastructure
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/postgresql/default.svg" width="48" height="48" alt="PostgreSQL" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mysql/default.svg" width="48" height="48" alt="MySQL" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/aws/default.svg" width="48" height="48" alt="AWS" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/docker/default.svg" width="48" height="48" alt="Docker" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linux/default.svg" width="48" height="48" alt="Linux" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nginx/default.svg" width="48" height="48" alt="Nginx" />
-</p>
-
-### Development / Security Tooling
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/git/default.svg" width="48" height="48" alt="Git" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/vscodium/default.svg" width="48" height="48" alt="VSCodium" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/pycharm/default.svg" width="48" height="48" alt="PyCharm" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-antigravity/default.svg" width="48" height="48" alt="Google Antigravity" />
-</p>
-
----
-
-## 💬 Ask Me About
-
-- AI security and LLM attack surfaces
-- AI red teaming labs
-- Prompt injection
-- RAG and agent security
-- Threat intelligence
-- Detection engineering
-- SOC workflows
-- Cloud security fundamentals
-- Python security automation
-- Cybersecurity home labs
-
----
-
-## 📚 Writing & Documentation
-
-I document practical work through:
-
-- Security lab writeups
-- Technical case studies
-- Cybersecurity resources
-- Project documentation
-- Security research notes
-- Detection and investigation findings
-
-🌐 **Portfolio:** [ashlynxcyber.in](https://www.ashlynxcyber.in/)
+- **TryHackMe & Hands-on CTFs** — Actively working through the Security Analyst Level 1 (SAL 1) pathway; solving challenges across web application attacks, Linux privilege escalation (SUID/cron abuse), and network inspection.
+- **Controlled Security Labs** — Conducting experiments in isolated environments to inspect file entropy heuristics, analyze behavioral anomaly signals, and test containment logic safely.
+- **Technical Documentation & Notes** — Publishing structured CTF walkthroughs, incident case studies, and security research write-ups on [AshlynxCyber Dispatches](https://www.ashlynxcyber.in/write-ups).
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Halanaaz1401&show_icons=true&hide_border=true&rank_icon=github" alt="Hala Naaz GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halanaaz1401&layout=compact&hide_border=true" alt="Hala Naaz Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Halanaaz1401&theme=radical&show_icons=true&hide_border=true&rank_icon=github" alt="Hala Naaz GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halanaaz1401&theme=radical&layout=compact&hide_border=true" alt="Hala Naaz Top Languages" />
 </p>
 
 ---
@@ -194,7 +122,25 @@ I document practical work through:
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://www.ashlynxcyber.in/">Website</a> •
-  <a href="https://www.linkedin.com/in/hala-naaz/">LinkedIn</a> •
-  <a href="https://t.me/+k-X4Dry1E-9mYTA1">Telegram</a>
+  <a href="https://www.ashlynxcyber.in/">
+    <img src="https://img.shields.io/badge/Portfolio-ashlynxcyber.in-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/hala-naaz/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hala%20Naaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Halanaaz1401">
+    <img src="https://img.shields.io/badge/GitHub-Halanaaz1401-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/+k-X4Dry1E-9mYTA1">
+    <img src="https://img.shields.io/badge/Telegram-AshlynxCyber-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>Building, testing, and researching security for AI systems.</em>
 </p>
