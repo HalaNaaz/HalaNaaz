@@ -87,75 +87,77 @@ An in-development project exploring graph-powered memory and coordination across
 
 ## Technical Arsenal & Capabilities
 
-<p align="center"><em>AI Security · Red Teaming · Security Research · Defensive Security</em></p>
+<p align="center"><em>AI Security · Offensive Security · Security Research · Defensive Security</em></p>
 
-### AI Security & Research
+### 1. AI Security & Research
 
-**Focus areas:** AI Red Teaming · LLM Security · AI Agent Security · Prompt Injection · RAG Security · Adversarial Testing · AI Application Security
+**Focus areas**
 
-<p>
-  <strong>Research themes:</strong> AI Security · LLM Security · Agent Security · Prompt Injection · RAG Security · Adversarial Testing
-</p>
+- LLM and AI application security
+- AI red teaming and adversarial testing
+- Prompt injection and jailbreak testing
+- AI agent security and tool-use boundaries
+- Retrieval-Augmented Generation (RAG) security
 
-### Offensive Security & Red Teaming
+**Research themes:** threat modelling · attack-surface analysis · security evaluation · mitigation strategies
 
-<p align="left">
-  <strong>Nmap</strong>&nbsp;&nbsp;
-  <a href="https://thesvg.org/icon/burp-suite"><img src="https://thesvg.org/icons/burp-suite/default.svg" height="30" alt="Burp Suite logo" /></a>&nbsp; <strong>Burp Suite</strong>&nbsp;&nbsp;
-  <strong>Metasploit</strong>&nbsp;&nbsp;
-  <strong>Shodan</strong>
-</p>
+### 2. Offensive Security & Red Teaming
 
-**Practice areas:** Web security testing · Network reconnaissance · Vulnerability assessment · CTF analysis · Authorized lab testing
+| Tool | Purpose / practice area |
+|---|---|
+| <a href="https://nmap.org/"><strong>Nmap</strong></a> | Network discovery and service enumeration |
+| <a href="https://thesvg.org/icon/burp-suite"><img src="https://thesvg.org/icons/burp-suite/default.svg" width="24" alt="Burp Suite logo" /></a> **Burp Suite** | Web application testing and HTTP request analysis |
+| **Metasploit** | Exploit validation in authorised labs |
+| **Shodan** | Internet-facing asset and service reconnaissance |
+| **Recon-ng** | OSINT and reconnaissance workflows |
 
-### Security Workstations & Tooling
+**Practice areas:** web security testing · network reconnaissance · vulnerability assessment · CTFs · authorised lab testing
 
-<p align="left">
-  <img src="https://thesvg.org/icons/kali-linux/default.svg" height="32" alt="Kali Linux logo" />&nbsp; <strong>Kali Linux</strong>&nbsp;&nbsp;
-  <strong>Parrot OS</strong>&nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/windows/default.svg" height="32" alt="Windows logo" />&nbsp; <strong>Windows</strong>&nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/antigravity-google/default.svg" height="32" alt="Google Antigravity logo" />&nbsp; <strong>Google Antigravity IDE</strong>
-</p>
-<p align="left">
-  <img src="https://thesvg.org/icons/visual-studio-code/default.svg" height="30" alt="Visual Studio Code logo" />&nbsp; <strong>VS Code</strong>&nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/git/default.svg" height="30" alt="Git logo" />&nbsp; <strong>Git</strong>&nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/github/light.svg" height="30" alt="GitHub logo" />&nbsp; <strong>GitHub</strong>
-</p>
+### 3. Security Workstations & Developer Tooling
 
-### Defensive Security, SIEM & Monitoring
+| Logo | Platform / tool | Use |
+|---|---|---|
+| <img src="https://thesvg.org/icons/kali-linux/default.svg" width="26" alt="Kali Linux logo" /> | **Kali Linux** | Security testing workstation |
+| **Parrot OS** | **Parrot OS** | Security-focused Linux environment |
+| <img src="https://thesvg.org/icons/windows/default.svg" width="26" alt="Windows logo" /> | **Windows** | Primary desktop environment |
+| <img src="https://thesvg.org/icons/antigravity-google/default.svg" width="26" alt="Google Antigravity logo" /> | **Google Antigravity IDE** | AI-assisted development workflow |
+| <img src="https://thesvg.org/icons/visual-studio-code/default.svg" width="26" alt="Visual Studio Code logo" /> | **Visual Studio Code** | Code editing and project development |
+| <img src="https://thesvg.org/icons/git/default.svg" width="26" alt="Git logo" /> | **Git** | Version control |
+| <img src="https://thesvg.org/icons/github/light.svg" width="26" alt="GitHub logo" /> | **GitHub** | Source control and project documentation |
 
-<p align="left">
-  <img src="https://thesvg.org/icons/splunk/default.svg" height="32" alt="Splunk logo" />&nbsp; <strong>Splunk</strong>&nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/elastic/default.svg" height="32" alt="Elastic logo" />&nbsp; <strong>Elastic</strong>
-</p>
+### 4. Defensive Security, SIEM & Monitoring
 
-**Splunk — learning and practice areas**
+| Logo | Platform | Learning / practice focus |
+|---|---|---|
+| <img src="https://thesvg.org/icons/splunk/default.svg" width="28" alt="Splunk logo" /> | **Splunk** | Log search, SPL queries, dashboards, alerts, and security-event investigation |
+| <img src="https://thesvg.org/icons/elastic/default.svg" width="28" alt="Elastic logo" /> | **Elastic** | Log analytics and observability concepts |
+
+**Splunk — current learning focus**
+
 - Searching and analysing logs, machine data, and security events
 - Practising SPL (Search Processing Language) queries
 - Exploring dashboards, alerts, and detection workflows
-- Understanding SIEM-supported threat hunting and incident investigation
+- Learning how SIEM workflows support threat hunting and incident investigation
 
-### Scripting & Security Automation
+### 5. Scripting & Security Automation
 
-<p align="left">
-  <img src="https://thesvg.org/icons/python/default.svg" height="30" alt="Python logo" />&nbsp; <strong>Python</strong>&nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/bash/default.svg" height="30" alt="Bash logo" />&nbsp; <strong>Bash</strong>
-</p>
+| Logo | Language | Application |
+|---|---|---|
+| <img src="https://thesvg.org/icons/python/default.svg" width="26" alt="Python logo" /> | **Python** | Security scripts, automation, and application logic |
+| <img src="https://thesvg.org/icons/bash/default.svg" width="26" alt="Bash logo" /> | **Bash** | Shell scripting and command-line automation |
 
-### Development, APIs & Cloud
+### 6. Development, APIs & Cloud
 
-<p align="left">
-  <img src="https://thesvg.org/icons/fastapi/default.svg" height="30" alt="FastAPI logo" />&nbsp; <strong>FastAPI</strong>&nbsp;&nbsp;
-  <strong>Next.js</strong>&nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/typescript/default.svg" height="30" alt="TypeScript logo" />&nbsp; <strong>TypeScript</strong>&nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/aws/default.svg" height="30" alt="AWS logo" />&nbsp; <strong>AWS</strong>
-</p>
-<p align="left">
-  <img src="https://thesvg.org/icons/docker/default.svg" height="30" alt="Docker logo" />&nbsp; <strong>Docker</strong>&nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/postgresql/default.svg" height="30" alt="PostgreSQL logo" />&nbsp; <strong>PostgreSQL</strong>
-</p>
+| Logo | Technology | Application |
+|---|---|---|
+| <img src="https://thesvg.org/icons/fastapi/default.svg" width="26" alt="FastAPI logo" /> | **FastAPI** | Python API development |
+| **Next.js** | **Next.js** | Web application development |
+| <img src="https://thesvg.org/icons/typescript/default.svg" width="26" alt="TypeScript logo" /> | **TypeScript** | Frontend and application development |
+| <img src="https://thesvg.org/icons/aws/default.svg" width="26" alt="AWS logo" /> | **AWS** | Cloud services and serverless project work |
+| <img src="https://thesvg.org/icons/docker/default.svg" width="26" alt="Docker logo" /> | **Docker** | Containerisation and local development |
+| <img src="https://thesvg.org/icons/postgresql/default.svg" width="26" alt="PostgreSQL logo" /> | **PostgreSQL** | Relational data storage |
 
-<sub>Tools reflect a mix of hands-on project use, lab practice, and ongoing learning; listing a tool does not imply expert-level proficiency.</sub>
+<sub>Capability note: this section combines hands-on project work, authorised lab practice, and ongoing learning. Tools are listed to show the working toolkit—not to imply expert-level proficiency in every platform.</sub>
 
 ---
 
