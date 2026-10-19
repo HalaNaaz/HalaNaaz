@@ -87,48 +87,46 @@ An in-development project exploring graph-powered memory and coordination across
 
 ## Technical Arsenal & Capabilities
 
-<p align="center">
-  <em>AI Security · Red Teaming · Security Research · Defensive Security</em>
-</p>
+<p align="center"><em>AI Security · Red Teaming · Security Research · Defensive Security</em></p>
 
 ### AI Security & Research
 
 **Focus areas:** AI Red Teaming · LLM Security · AI Agent Security · Prompt Injection · RAG Security · Adversarial Testing · AI Application Security
 
 <p>
-  <img src="https://img.shields.io/badge/AI%20Security-Research-FF6B00?style=for-the-badge&logo=googlegemini&logoColor=white" alt="AI Security" />
-  <img src="https://img.shields.io/badge/LLM%20Security-Testing-20232A?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Security" />
+  <strong>Research themes:</strong> AI Security · LLM Security · Agent Security · Prompt Injection · RAG Security · Adversarial Testing
 </p>
 
 ### Offensive Security & Red Teaming
 
-<p>
-  <img src="https://img.shields.io/badge/Nmap-Reconnaissance-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap logo" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite logo" />
-  <img src="https://img.shields.io/badge/Metasploit-Penetration%20Testing-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit logo" />
-  <img src="https://img.shields.io/badge/Shodan-OSINT-EA4335?style=for-the-badge&logo=shodan&logoColor=white" alt="Shodan logo" />
-  <img src="https://img.shields.io/badge/Recon--ng-Recon-111827?style=for-the-badge" alt="Recon-ng" />
+<p align="left">
+  <strong>Nmap</strong>&nbsp;&nbsp;
+  <a href="https://thesvg.org/icon/burp-suite"><img src="https://thesvg.org/icons/burp-suite/default.svg" height="30" alt="Burp Suite logo" /></a>&nbsp; <strong>Burp Suite</strong>&nbsp;&nbsp;
+  <strong>Metasploit</strong>&nbsp;&nbsp;
+  <strong>Shodan</strong>
 </p>
 
 **Practice areas:** Web security testing · Network reconnaissance · Vulnerability assessment · CTF analysis · Authorized lab testing
 
 ### Security Workstations & Tooling
 
-<p>
-  <img src="https://img.shields.io/badge/Kali%20Linux-Security%20Lab-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux logo" />
-  <img src="https://img.shields.io/badge/Parrot%20OS-Security%20Lab-15E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=black" alt="Parrot Security OS logo" />
-  <img src="https://img.shields.io/badge/Windows-Workstation-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows logo" />
-  <img src="https://img.shields.io/badge/Google%20Antigravity-Agentic%20IDE-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity IDE" />
-  <img src="https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code logo" />
-  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git logo" />
-  <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub logo" />
+<p align="left">
+  <img src="https://thesvg.org/icons/kali-linux/default.svg" height="32" alt="Kali Linux logo" />&nbsp; <strong>Kali Linux</strong>&nbsp;&nbsp;
+  <strong>Parrot OS</strong>&nbsp;&nbsp;
+  <img src="https://thesvg.org/icons/windows/default.svg" height="32" alt="Windows logo" />&nbsp; <strong>Windows</strong>&nbsp;&nbsp;
+  <img src="https://thesvg.org/icons/antigravity-google/default.svg" height="32" alt="Google Antigravity logo" />&nbsp; <strong>Google Antigravity IDE</strong>
+</p>
+<p align="left">
+  <img src="https://thesvg.org/icons/visual-studio-code/default.svg" height="30" alt="Visual Studio Code logo" />&nbsp; <strong>VS Code</strong>&nbsp;&nbsp;
+  <img src="https://thesvg.org/icons/git/default.svg" height="30" alt="Git logo" />&nbsp; <strong>Git</strong>&nbsp;&nbsp;
+  <img src="https://thesvg.org/icons/github/light.svg" height="30" alt="GitHub logo" />&nbsp; <strong>GitHub</strong>
 </p>
 
 ### Defensive Security, SIEM & Monitoring
 
-<p>
-  <img src="https://img.shields.io/badge/Splunk-SIEM-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk logo" />
-  <img src="https://img.shields.io/badge/Elastic-Log%20Analytics-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic logo" />
+<p align="left">
+  <img src="https://thesvg.org/icons/splunk/default.svg" height="32" alt="Splunk logo" />&nbsp; <strong>Splunk</strong>&nbsp;&nbsp;
+  <img src="https://thesvg.org/icons/elastic/default.svg" height="32" alt="Elastic logo" />&nbsp; <strong>Elastic</strong>
 </p>
 
 **Splunk — learning and practice areas**
@@ -139,20 +137,22 @@ An in-development project exploring graph-powered memory and coordination across
 
 ### Scripting & Security Automation
 
-<p>
-  <img src="https://img.shields.io/badge/Python-Scripting-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python logo" />
-  <img src="https://img.shields.io/badge/Bash-CLI%20Automation-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash logo" />
+<p align="left">
+  <img src="https://thesvg.org/icons/python/default.svg" height="30" alt="Python logo" />&nbsp; <strong>Python</strong>&nbsp;&nbsp;
+  <img src="https://thesvg.org/icons/bash/default.svg" height="30" alt="Bash logo" />&nbsp; <strong>Bash</strong>
 </p>
 
 ### Development, APIs & Cloud
 
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-API%20Development-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI logo" />
-  <img src="https://img.shields.io/badge/Next.js-Web%20Applications-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js logo" />
-  <img src="https://img.shields.io/badge/TypeScript-Development-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" />
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS logo" />
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL logo" />
+<p align="left">
+  <img src="https://thesvg.org/icons/fastapi/default.svg" height="30" alt="FastAPI logo" />&nbsp; <strong>FastAPI</strong>&nbsp;&nbsp;
+  <strong>Next.js</strong>&nbsp;&nbsp;
+  <img src="https://thesvg.org/icons/typescript/default.svg" height="30" alt="TypeScript logo" />&nbsp; <strong>TypeScript</strong>&nbsp;&nbsp;
+  <img src="https://thesvg.org/icons/aws/default.svg" height="30" alt="AWS logo" />&nbsp; <strong>AWS</strong>
+</p>
+<p align="left">
+  <img src="https://thesvg.org/icons/docker/default.svg" height="30" alt="Docker logo" />&nbsp; <strong>Docker</strong>&nbsp;&nbsp;
+  <img src="https://thesvg.org/icons/postgresql/default.svg" height="30" alt="PostgreSQL logo" />&nbsp; <strong>PostgreSQL</strong>
 </p>
 
 <sub>Tools reflect a mix of hands-on project use, lab practice, and ongoing learning; listing a tool does not imply expert-level proficiency.</sub>
