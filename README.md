@@ -85,23 +85,80 @@ An in-development project exploring graph-powered memory and coordination across
 
 **Additional work:** [Ransomware Detection & Response System](https://github.com/Halanaaz1401/ransomware-detection-response-system) · [Healysis](https://github.com/Halanaaz1401/healysis-sentry-network)
 
-## Technical Toolkit
+## Technical Arsenal & Capabilities
 
-### Programming & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash,js,ts,fastapi,nextjs,react,git,github" alt="Python, Bash, JavaScript, TypeScript, FastAPI, Next.js, React, Git and GitHub" />
+<p align="center">
+  <em>Tools and technologies I use or am actively learning for AI Security, Red Teaming, security research, and development.</em>
 </p>
 
-### AI, Cloud & Infrastructure
+### AI Security & Research
+
+**Focus:** AI Red Teaming · LLM Security · AI Agent Security · Prompt Injection · RAG Security · Adversarial Testing · AI Application Security
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,postgres,mysql,redis,nginx" alt="AWS, Docker, Linux, PostgreSQL, MySQL, Redis and Nginx" />
+  <img src="https://img.shields.io/badge/AI%20Security-Research-FF6B00?style=for-the-badge&logo=openai&logoColor=white" alt="AI Security Research" />
+  <img src="https://img.shields.io/badge/LLM%20Security-Testing-111827?style=for-the-badge" alt="LLM Security" />
+  <img src="https://img.shields.io/badge/AI%20Agents-Security-111827?style=for-the-badge" alt="AI Agent Security" />
 </p>
 
-**Security concepts:** AI application security · Prompt injection · AI agent security · Threat modelling · Threat intelligence · MITRE ATT&CK · API security · Controlled security testing
+### Offensive Security & Red Teaming
 
-*Technology icons indicate tools and technologies used across projects or practical work; they do not imply equal proficiency in every item.*
+<p>
+  <img src="https://img.shields.io/badge/Nmap-Reconnaissance-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Metasploit-Penetration%20Testing-2596CD?style=for-the-badge" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Shodan-OSINT-EA4335?style=for-the-badge" alt="Shodan" />
+  <img src="https://img.shields.io/badge/Recon--ng-Recon-111827?style=for-the-badge" alt="Recon-ng" />
+</p>
+
+**Practice areas:** Web security testing · Network reconnaissance · Vulnerability assessment · CTF analysis · Authorized lab testing
+
+### Security Workstations & Tooling
+
+<p>
+  <img src="https://img.shields.io/badge/Kali%20Linux-Lab%20Environment-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Parrot%20OS-Security%20Lab-15AABF?style=for-the-badge&logo=parrotsecurity&logoColor=white" alt="Parrot OS" />
+  <img src="https://img.shields.io/badge/Windows-Workstation-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/AntiGravity-IDE-8B5CF6?style=for-the-badge" alt="Google AntiGravity IDE" />
+  <img src="https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git and GitHub" />
+</p>
+
+### Defensive Security, SIEM & Monitoring
+
+<p>
+  <img src="https://img.shields.io/badge/Splunk-SIEM-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Elastic-Log%20Analytics-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic" />
+</p>
+
+**Splunk — learning and practice areas**
+- Searching and analysing machine data, logs, and security events
+- Practising SPL (Search Processing Language) queries
+- Exploring dashboards, alerts, and detection workflows
+- Understanding how SIEM supports threat hunting and incident investigation
+
+### Scripting & Security Automation
+
+<p>
+  <img src="https://img.shields.io/badge/Python-Scripting-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-CLI%20Automation-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/GitHub-Automation-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+### Development, APIs & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-API%20Development-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Next.js-Web%20Applications-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-Development-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+<sub>Skills reflect a mix of hands-on project use, lab practice, and ongoing learning; listing a tool does not imply expert-level proficiency.</sub>
+
+---
 
 ## Hands-on Learning
 
